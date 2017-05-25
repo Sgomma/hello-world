@@ -1,2 +1,3 @@
 # hello-world
-I do a repository
+
+Ciao gente sto imparando a usare github per la prima volta
